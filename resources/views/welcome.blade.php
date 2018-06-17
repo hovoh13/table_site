@@ -94,6 +94,7 @@
         </div>
         <div id="app">
         <example-component></example-component>
+        <example-component></example-component>
     </div>
     <div id="example">@{{text}}</div>
     <script type="text/javascript" src="js/app.js"></script>
