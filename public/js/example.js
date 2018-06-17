@@ -79,7 +79,7 @@ module.exports = __webpack_require__(45);
 var example = new Vue({
     el: '#example',
     data: {
-        text: "hello"
+        text: "hi"
     }
 });
 
